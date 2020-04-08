@@ -1,0 +1,46 @@
+body {background-color:rgb(216, 199, 215);} 
+button {background-color :rgb(195, 106, 173); 
+	 font-family : 'Times New Roman', Times, serif;
+	 margin-left: 30px;
+} 
+
+
+   
+	   body {
+		   padding:0px;
+		   margin:40px;
+		   text-align: center;
+		   
+	   }
+
+	   #menu ul {
+		  
+		   float: left;
+		   width: 100%;
+		   background-color:lightgray;
+		   list-style:none;
+		   font:80% Tahoma;
+	   }
+
+	   #menu ul li { display: inline; }
+
+	   #menu ul li a {
+		   
+		   
+		   background-color:lightgray;
+		   color: #333;
+		   text-decoration: none;
+		   border-bottom:4px lightgray;
+		   padding: 4px 10px;
+		   float:left;
+	   }
+		   padding: 4px 10px;
+		   float:left;
+	   }
+
+	   #menu ul li a:hover {
+		   background-color:#D6D6D6;
+		   color: lightgray;
+		   border-bottom:4px solid lightgray;
+	   }
+  
